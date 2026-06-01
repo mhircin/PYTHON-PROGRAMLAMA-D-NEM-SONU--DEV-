@@ -18,7 +18,7 @@ Google Colab ortamında geliştirilmiştir
 # 1. Kısım: Veri Yapıları ve Temel Mantık
 Bu bölümde Python'ın temel veri yapıları ve karar mekanizmaları kullanılmıştır.
 
-## Kullanılan Konular
+# Kullanilan Konular
 - Değişkenler ve Veri Tipleri
 - Liste (List) Kullanımı
 - Sözlük (Dictionary) Kullanımı
