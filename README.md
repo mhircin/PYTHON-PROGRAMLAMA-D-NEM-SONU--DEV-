@@ -45,7 +45,6 @@ Müşteri bilgileri farklı türlerde veriler içerdiğinden sözlük (dictionar
 Bu yapı sayesinde verilere isimleri ile erişmek mümkündür.
 
 Avantajları:
-
 + Daha okunabilir kod sağlar.
 + Veri yönetimini kolaylaştırır.
 + Hata yapma olasılığını azaltır.
