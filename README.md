@@ -54,7 +54,7 @@ Avantajları:
 # 2. Kısım: Fonksiyonlar, Döngüler ve Kütüphaneler
 Bu bölümde müşteri sayısı artırılarak daha kapsamlı analizler gerçekleştirilmiştir.
 
-# Kullanılan Konular
+# Kullanilan Konular
 - Fonksiyonlar
 - Döngüler (For Loop)
 - Listeler
@@ -63,7 +63,7 @@ Bu bölümde müşteri sayısı artırılarak daha kapsamlı analizler gerçekle
 - Math Kütüphanesi
 - Datetime Kütüphanesi
 
-# GERÇEKLEŞTİRİLEN İŞLEMLER;
+# GERÇEKLESTİRİLEN İŞLEMLER;
 
 # Müşteri Yönetimi
 5 farklı müşteri sözlük yapıları kullanılarak bir liste içerisinde saklanmıştır.
