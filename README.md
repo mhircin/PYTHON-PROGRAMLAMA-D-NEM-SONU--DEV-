@@ -26,7 +26,7 @@ Bu bölümde Python'ın temel veri yapıları ve karar mekanizmaları kullanılm
 - String İşlemleri
 - Rastgele ID Üretimi
 
-# Gerçekleştirilen İşlemler
+# Gerçeklestirilen İşlemler
 - Müşteriye ait ad, soyad, aylık ücret, sadakat süresi ve aktiflik durumu tanımlanmıştır.
 - Şirket tarafından sunulan hizmetler liste içerisinde saklanmıştır.
 - Müşteri bilgileri sözlük yapısında tutulmuştur.
